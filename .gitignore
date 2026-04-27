@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.ipynb_checkpoints/
+*.h5ad
+*.zarr/
+data/raw/*
+!data/raw/.gitkeep
+.DS_Store
+venv/
+spatial_env/
