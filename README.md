@@ -671,16 +671,6 @@ Each notebook will:
 
 ---
 
-## License
-
-This project is licensed under the MIT License — you're free to use, modify, and distribute this code for educational or research purposes. See [LICENSE](LICENSE) for details.
-
-If you use this repository in your work, please cite:
-
-```
-Asad, M. T. (2026). Spatial Transcriptomics Analysis: From Tissue Architecture to Molecular Networks.
-GitHub repository: https://github.com/YOUR_USERNAME/spatial-transcriptomics-10x-analysis
-```
 
 ---
 
@@ -689,9 +679,8 @@ GitHub repository: https://github.com/YOUR_USERNAME/spatial-transcriptomics-10x-
 **Muhammad Taimoor Asad**  
 BS Bioinformatics, SINES, NUST  
 Registration Number: 473749  
-Email: [your.email@example.com]  
-LinkedIn: [Your LinkedIn Profile]  
-GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+Email: taimoorasad01@gmail.com  
+
 
 *Questions about the analysis? Found an error? Want to collaborate? Open an issue or reach out directly!*
 
